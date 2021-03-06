@@ -1,4 +1,4 @@
-# SkiaSharpSamples
+# SkiaSharp .NET Core Console application Samples
 
 ## HelloSkia
 simple sample 
