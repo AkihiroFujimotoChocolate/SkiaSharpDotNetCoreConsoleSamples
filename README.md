@@ -4,11 +4,14 @@
 simple sample 
 
 ## SimpleCircle
-The console application version of the sample code in the below url
+The console application version of the sample code in the below url.
 
 https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/graphics/skiasharp/basics/circle
 
 ## IntegratingTextAndGraphics
-The console application version of the sample code in the below url
+The console application version of the sample code in the below url.
 
 https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/graphics/skiasharp/basics/text
+
+## LoadingBitmap
+Sample for loading bitmap images from resource file, web and local file.
