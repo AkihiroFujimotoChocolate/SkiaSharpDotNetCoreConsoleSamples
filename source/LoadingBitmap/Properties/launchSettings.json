@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoadingBitmap": {
+      "commandName": "Project",
+      "workingDirectory": "work"
+    }
+  }
+}
