@@ -1,4 +1,6 @@
-# SkiaSharp .NET Core Console application Samples
+# SkiaSharp .NET Core Console Application Samples
+Thease samples can for example be used to make .NET Core console application whitch uses SkiSharp the open source 2D graphics library.
+
 The png files used for input datas are from the below site.
 
 https://www.irasutoya.com/
