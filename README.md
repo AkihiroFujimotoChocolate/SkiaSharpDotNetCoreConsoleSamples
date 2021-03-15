@@ -6,7 +6,10 @@ The png files used for input datas are from the below site.
 https://www.irasutoya.com/
 
 ## HelloSkia
-simple sample 
+simple sample
+
+## HelloSkiaNotoSansCJKjp
+simple sample for using font to remove tofu.
 
 ## SimpleCircle
 The console application version of the sample code in the below url.
