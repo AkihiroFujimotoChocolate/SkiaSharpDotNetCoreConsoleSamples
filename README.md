@@ -23,3 +23,6 @@ https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/graphics/skiasha
 
 ## LoadingBitmap
 Sample for loading bitmap images from resource file, web and local file.
+
+## RichTextKitTextBlock
+Sample for dwawing Textbox by using RitchTextKit https://www.toptensoftware.com/richtextkit/
